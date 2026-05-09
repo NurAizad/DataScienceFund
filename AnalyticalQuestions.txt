@@ -1,0 +1,12 @@
+1. Is there a correlation between crash hour and injury severity
+2. What is the trend of number of accidents yearly
+3. What factors influence number of fatal injury
+- weather condition
+- lighting confition
+- roadway srface condition
+- primary contributory cause
+4. Can total injuries be predicted based on 
+- crash hour
+- crash day of week
+- number of vehicles involved
+- traffic way type
