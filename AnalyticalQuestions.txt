@@ -1,0 +1,4 @@
+1. can most severe injury outcome be predicted based on crash hour, crash day of the week, weather conditions, lighting conditions, and roadway surface conditions? (decision tree classification)
+2. can total number of injuries be predicted based on crash hour, crash day of the week, number of vehicles involved, and trafficway type? (regression)
+3. what groups of traffic accidents can be identified based on weather conditions, lighting conditions, roadway surface conditions, and primary contributory causes? (clustering)
+4. What is the yearly trend in the number of traffic accidents over time? (line graph trend analysis)
